@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 long long int r;
-long long int power_of_ten(int b);
 
 int main(void)
 {
